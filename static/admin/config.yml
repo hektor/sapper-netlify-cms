@@ -18,5 +18,5 @@ collections:
     folder: "static/gallery"
     create: true
     fields:
-      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Caption", name: "caption", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
